@@ -1,16 +1,32 @@
-## Hi there 👋
+# Max / burstCode
 
-<!--
-**burstCode/burstCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend developer · C# / .NET**
 
-Here are some ideas to get you started:
+I've been working at **Simplex (Симплекс)** for over a year, contributing to a medical information system
+for clinics. I develop backend services and APIs with .NET and study Software Engineering.
+My current focus is API design and testing, with a growing interest in deployment
+automation and observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Core** – C# · .NET · PostgreSQL  
+**Also used in projects** – Python · Java  
+**Exploring further** – Docker · CI/CD · Observability
+
+## Featured project
+
+### [Keycloak SMS 2FA](https://github.com/burstCode/keycloak-sms-2fa-authenticator)
+
+`Java` · `Keycloak`
+
+A Keycloak plugin for SMS-based two-factor authentication, integrated with SMSC (СМСЦентр).
+
+## Currently learning
+
+- API design and testing of key application scenarios.
+- Reproducible development environments with Docker.
+- Structured logging and distributed tracing.
+
+---
+
+**Contact** – [Telegram · @brstlimit](https://t.me/brstlimit)
